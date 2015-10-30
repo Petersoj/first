@@ -1,0 +1,7 @@
+name: Gunz
+version: 1.0
+main: com.petersoj.DEVproject.Gunz
+description: I LOVE MINEPLEX
+commands:
+  gunGUI:
+    description: open gui
